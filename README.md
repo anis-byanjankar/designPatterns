@@ -1,8 +1,8 @@
 # designPatterns
 
 ## Structural
-  [ ] Singleton 
-  [ ] Factory
+  - [ ] Singleton 
+  - [ ] Factory
 ## Behavioural
-  [X] Strategy
-  [X] Observer
+  - [X] Strategy
+  - [X] Observer
